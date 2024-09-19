@@ -4,7 +4,7 @@ i pozvati je nakon traženja unosa
 od korisnika.
 '''
 
-from funkcijskoprog import treca, pozdrav, dobrodosao
+from funkcijsko import treca, pozdrav, dobrodosao
 
 ime = input("Unesite ime: ")
 print(treca(pozdrav, ime))
